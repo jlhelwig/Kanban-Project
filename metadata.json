@@ -1,0 +1,5 @@
+{
+  "name": "Project Kanban",
+  "description": "A simple and intuitive Kanban board to manage your projects with To Do, Doing, and Done columns.",
+  "requestFramePermissions": []
+}
